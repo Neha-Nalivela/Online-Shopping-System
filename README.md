@@ -106,54 +106,25 @@ Online Shopping System
 
 ## 📂 Product Categories
 
-### 🍎 Fruits
+### 🍎 Fruits           ### 🥕 Vegetables            ### ✏️ Stationery                
 
-| Item       | Price |
-| ---------- | ----: |
-| Bananas    |   ₹50 |
-| Mangoes    |  ₹100 |
-| Apples     |  ₹150 |
-| Pineapples |  ₹130 |
-| Grapes     |  ₹200 |
+| Item       | Price |  | Item           | Price |    | Item             | Price |    
+| ---------- | ----: |  | -------------- | ----: |    | ---------------- | ----: |    
+| Bananas    |   ₹50 |  | Eggplant       |   ₹75 |    | Gum Bottle       |   ₹10 |    
+| Mangoes    |  ₹100 |  | Beetroot       |  ₹110 |    | Punching Machine |   ₹30 |    
+| Apples     |  ₹150 |  | Green Chillies |  ₹180 |    | Sealing Wax      |   ₹50 |    
+| Pineapples |  ₹130 |  | Sweetcorn      |  ₹300 |    | Tea Set          |  ₹300 |        
+| Grapes     |  ₹200 |  | Onion          |   ₹30 |    | Cleaning Powder  |   ₹30 |     
 
-### 🥕 Vegetables
+### 💻 Electronics            ### 🏠 Miscellaneous
 
-| Item           | Price |
-| -------------- | ----: |
-| Eggplant       |   ₹75 |
-| Beetroot       |  ₹110 |
-| Green Chillies |  ₹180 |
-| Sweetcorn      |  ₹300 |
-| Onion          |   ₹30 |
-
-### ✏️ Stationery
-
-| Item             | Price |
-| ---------------- | ----: |
-| Gum Bottle       |   ₹10 |
-| Punching Machine |   ₹30 |
-| Sealing Wax      |   ₹50 |
-| Tea Set          |  ₹300 |
-| Cleaning Powder  |   ₹30 |
-
-### 💻 Electronics
-
-| Item            | Price |
-| --------------- | ----: |
-| Computer Items  |   ₹50 |
-| Mobile Items    |   ₹50 |
-| Wires           |  ₹550 |
-| Appliances      |   ₹50 |
-| All Electronics |   ₹50 |
-
-### 🏠 Miscellaneous
-
-| Item             | Price |
-| ---------------- | ----: |
-| Bubble Bath Card | ₹6000 |
-| Kitchen Items    |   ₹50 |
-| Room Items       |   ₹50 |
-| Bathroom Items   |   ₹50 |
+| Item            | Price |    | Item             | Price |
+| --------------- | ----: |    | ---------------- | ----: |
+| Computer Items  |   ₹50 |    | Bubble Bath Card | ₹6000 |
+| Mobile Items    |   ₹50 |    | Kitchen Items    |   ₹50 |
+| Wires           |  ₹550 |    | Room Items       |   ₹50 |
+| Appliances      |   ₹50 |    | Bathroom Items   |   ₹50 |  
+| All Electronics |   ₹50 |    
 
 ---
 
